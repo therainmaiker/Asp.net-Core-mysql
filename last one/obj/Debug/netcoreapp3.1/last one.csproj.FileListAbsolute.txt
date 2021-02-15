@@ -1,0 +1,105 @@
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.exe
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.deps.json
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.runtimeconfig.json
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.runtimeconfig.dev.json
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.pdb
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.csprojAssemblyReference.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.AssemblyInfoInputs.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.AssemblyInfo.cs
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\staticwebassets\last one.StaticWebAssets.Manifest.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\staticwebassets\last one.StaticWebAssets.xml
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\scopedcss\bundle\last one.styles.css
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.RazorTargetAssemblyInfo.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.dll
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.pdb
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.genruntimeconfig.cache
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.Views.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\last one.Views.pdb
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.csproj.CopyComplete
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.RazorAssemblyInfo.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.RazorAssemblyInfo.cs
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.TagHelpers.input.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.TagHelpers.output.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.RazorCoreGenerate.cache
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.RazorTargetAssemblyInfo.cs
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\last one.Views.pdb
+C:\Users\Youcode\source\repos\last one\last one\obj\Debug\netcoreapp3.1\Razor\Views\me\Index.cshtml.g.cs
